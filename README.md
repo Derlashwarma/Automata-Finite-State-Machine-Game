@@ -10,4 +10,5 @@ An engaging game that showcases a finite state machine in action. Players must s
 | GAME_OVER     | Game restarted (optional)             | START       | Reset game state and initialize a new game.         |
 
 ## State Diagram
-![ State Diagram ](https://drive.google.com/file/d/11CgrrNJ-2zRvp6QOG6B1L4SfQSYwe1pB/view?usp=sharing)
+![Description of Image](https://drive.google.com/file/d/11CgrrNJ-2zRvp6QOG6B1L4SfQSYwe1pB/preview)
+
