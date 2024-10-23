@@ -1,5 +1,5 @@
 ## Description
-An engaging game that showcases a finite state machine in action. Players must skillfully navigate through enemy bullets while striving to maximize their score. With intuitive controls and dynamic gameplay, this game offers a captivating challenge that tests your reflexes and strategic thinking.
+An engaging game that showcases a finite state machine in action. Players must skillfully navigate through enemy bullets while striving to maximize their score. You can avoid the enemy and enemy attacks by moving the mouse cursor. If you collide with the enemy blob, you will get damaged rapidly and die quicker than their bullets. With intuitive controls and dynamic gameplay, this game offers a captivating challenge that tests your reflexes and strategic thinking.
 
 ## Transition Table 
 | Current State | Event                                   | Next State | Action/Description                                   |
