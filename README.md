@@ -9,6 +9,4 @@ An engaging game that showcases a finite state machine in action. Players must s
 | PLAYING       | Player health drops to 0 or below     | GAME_OVER   | Transition to game over state and handle game over logic. |
 | GAME_OVER     | Game restarted (optional)             | START       | Reset game state and initialize a new game.         |
 
-## State Diagram
-![Description of Image](https://drive.google.com/file/d/11CgrrNJ-2zRvp6QOG6B1L4SfQSYwe1pB/preview)
 
